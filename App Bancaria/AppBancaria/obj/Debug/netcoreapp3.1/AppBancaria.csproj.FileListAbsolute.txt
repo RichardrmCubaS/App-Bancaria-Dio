@@ -1,0 +1,14 @@
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\bin\Debug\netcoreapp3.1\AppBancaria.exe
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\bin\Debug\netcoreapp3.1\AppBancaria.deps.json
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\bin\Debug\netcoreapp3.1\AppBancaria.runtimeconfig.json
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\bin\Debug\netcoreapp3.1\AppBancaria.runtimeconfig.dev.json
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\bin\Debug\netcoreapp3.1\AppBancaria.dll
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\bin\Debug\netcoreapp3.1\AppBancaria.pdb
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.csproj.AssemblyReference.cache
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.AssemblyInfoInputs.cache
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.AssemblyInfo.cs
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.csproj.CoreCompileInputs.cache
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.dll
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.pdb
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet Criando uma aplicação de transferências bancárias com NET\App Bancaria\AppBancaria\obj\Debug\netcoreapp3.1\AppBancaria.genruntimeconfig.cache
