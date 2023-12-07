@@ -1,2 +1,2 @@
 # App-Bancaria
-Applicação do Curso Netr Fundamental da Dio
+Applicação do Curso Net Fundamental da Dio
